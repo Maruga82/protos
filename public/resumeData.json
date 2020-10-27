@@ -1,0 +1,113 @@
+{
+  "main": {
+    "name": "Massimo Della Rovere",
+    "occupation": "Software Developer",
+    "description": "Projecting the future on Virtual Reality",
+    "image": "tattico.jpg",
+    "bio": "My name is Massimo, I'm a Software Developer, and I'm projecting the future on Virtual Reality ",
+    "contactmessage": "Get in touch with me to receive further details.",
+    "email": "dellarovere.massimo@gmail.com",
+    "phone": "+39 329 426 2060 - +353 83 837 6453",
+    "address": {
+      "street": "Sparandindels",
+      "city": "Dublin",
+      "state": "IR",
+      "zip": "XXXXX"
+    },
+    "website": "http://www.tactic.asd",
+    "resumedownload": "---",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "--",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "--",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "--",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "--",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "On job from 1920",
+    "education": [
+      {
+        "school": "Università degli studi di Ancona",
+        "degree": "Graduation in software engineering",
+        "graduated": "1964",
+        "description": "Graduated with Distinction"
+      }
+    ],
+    "work": [
+      {
+        "company": "Software Industriale",
+        "title": "Developer",
+        "years": "2010 - 2016",
+        "description": "Java"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Java",
+        "level": "100%"
+      },
+      {
+        "name": "Unity",
+        "level": "90%"
+      },
+      {
+        "name": "Git",
+        "level": "90%"
+      },
+      {
+        "name": "C#",
+        "level": "80%"
+      },
+      {
+        "name": "Motociclette",
+        "level": "90%"
+      },
+      {
+        "name": "SQL",
+        "level": "90%"
+      },
+      {
+        "name": "Gaso",
+        "level": "100%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Virtual Room",
+        "category": "VR",
+        "image": "vr.jpg",
+        "url": "https://github.com/Maruga82/React-Chart-Js-input-data"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "",
+        "user": ""
+      },
+      {
+        "text": "",
+        "user": ""
+      }
+    ]
+  }
+}
